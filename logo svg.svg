@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3000" viewBox="0 0 3000 3000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cd345b;
+      }
+
+      .cls-2 {
+        font-size: 539.082px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Osaka-Sans Serif";
+        font-variant: small-caps;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="1388" cy="1500" r="894"/>
+  <text id="SC" class="cls-2" transform="translate(1375.398 1850.901) scale(2.228)"><tspan x="0">SC</tspan></text>
+</svg>
